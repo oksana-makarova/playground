@@ -1,4 +1,4 @@
-# Oksana's new title for PP3
+# Oksana's and Nicole's title to resolve conflict
 
 A place to play with `git`.
 
