@@ -1,4 +1,4 @@
-# Playground
+# Nicole's changes to Playground
 
 A place to play with `git`.
 
